@@ -15,3 +15,4 @@ Download from releases or clone and build
 
 ## Message by nrliii
 One day i will continue building onto this source when i finish my studies :3
+Also this repo exists because the original one went uh poof.
