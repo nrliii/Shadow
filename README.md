@@ -10,5 +10,8 @@ Recently, The client had been refactored over to coffee client, so not much of m
 
 
 ## Usage
-clone the github repo and ./gradlew build the file bla bla bla
-If you're a lazy fuck download from builds folder
+Download from releases or clone and build
+
+
+## Message by nrliii
+One day i will continue building onto this source when i finish my studies :3
